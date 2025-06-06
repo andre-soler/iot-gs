@@ -1,1 +1,1 @@
-Projeto de IOT para global soultion
+Projeto de IOT para GS
